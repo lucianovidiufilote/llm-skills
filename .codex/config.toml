@@ -5,4 +5,4 @@ model_reasoning_summary = "auto"
 model_verbosity = "medium"
 sandbox_mode = "workspace-write"
 
-notify = ["python3", "notify.py"]
+#notify = ["python3", "notify.py"]
