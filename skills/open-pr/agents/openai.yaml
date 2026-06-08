@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open PR"
+  short_description: "Open GitHub PRs from the current branch."
+  default_prompt: "Use $open-pr to compare the current branch with origin/main and open a GitHub pull request with a useful description and test plan."

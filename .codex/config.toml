@@ -1,0 +1,8 @@
+model = "gpt-5.5"
+approval_policy = "never"
+model_reasoning_effort = "medium"
+model_reasoning_summary = "auto"
+model_verbosity = "medium"
+sandbox_mode = "workspace-write"
+
+notify = ["python3", "notify.py"]
