@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Code"
+  short_description: "Apply language-specific code conventions."
+  default_prompt: "Use $write-code to implement this change using the repository's conventions and the right language reference."
